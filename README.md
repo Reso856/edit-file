@@ -1,2 +1,2 @@
 # edit-file
-hello guys, chay pi lo.
+hello guys, chai pee lo.
